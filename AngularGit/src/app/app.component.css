@@ -5,3 +5,11 @@
 .colorBlue{
  color:blue;
 }
+.colorPink{
+    color:pink;
+    background-color: gray;
+}
+.colorYellow{
+    color:yellow;
+    background-color: orange;
+}
